@@ -1,19 +1,25 @@
+
+
 class Solution {
 public:
     int minOperations(vector<string>& logs) {
-        vector<string>direct;
-        for (int i=0; i<logs.size();i++){
-            if (logs [i]=="../" and direct.size()!=0){
-                direct.pop_back();
+
+        int ans = 0;
+
+        for(auto log: logs){
+
+            if(log == "../"){
+                if(ans==0) continue;
+
+                ans--;
+            }else if(log == "./") continue;
+            else{
+                ans++;
             }
-            else  if(logs [i]=="../" and direct.size()==0){
-                
-            }
-            else if(logs[i]!="./"){
-                direct.push_back(logs[i]);
-                
-            }
+            
         }
-        return direct.size();
+
+        return ans;
+        
     }
 };
