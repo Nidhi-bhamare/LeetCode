@@ -13,6 +13,7 @@ consistency is key
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -21,4 +22,9 @@ consistency is key
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2465-shifting-letters-ii) |
+## Array
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
