@@ -31,6 +31,7 @@ consistency is key
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1876-map-of-highest-peak](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -39,6 +40,7 @@ consistency is key
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1876-map-of-highest-peak](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -47,6 +49,7 @@ consistency is key
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1876-map-of-highest-peak](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
