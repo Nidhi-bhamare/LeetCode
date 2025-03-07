@@ -118,4 +118,12 @@ consistency is key
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
