@@ -15,6 +15,7 @@ consistency is key
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -112,6 +113,7 @@ consistency is key
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0015-3sum) |
 ## Linked List
 |  |
@@ -133,4 +135,8 @@ consistency is key
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
