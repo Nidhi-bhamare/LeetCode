@@ -37,6 +37,7 @@ consistency is key
 | [0015-3sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0015-3sum) |
 | [0407-trapping-rain-water-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-map-of-highest-peak](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -134,9 +135,11 @@ consistency is key
 ## Sliding Window
 |  |
 | ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
