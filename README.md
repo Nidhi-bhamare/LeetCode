@@ -8,6 +8,7 @@ consistency is key
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0001-two-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -35,6 +36,7 @@ consistency is key
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0015-3sum) |
 | [0407-trapping-rain-water-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1396-count-servers-that-communicate) |
