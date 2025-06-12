@@ -54,6 +54,7 @@ consistency is key
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3429-special-array-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3429-special-array-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Breadth-First Search
 |  |
 | ------- |
