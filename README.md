@@ -14,6 +14,7 @@ consistency is key
 | [2685-first-completely-painted-row-or-column](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ consistency is key
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +105,7 @@ consistency is key
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Graph
 |  |
 | ------- |
@@ -141,6 +144,7 @@ consistency is key
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
 |  |
 | ------- |
