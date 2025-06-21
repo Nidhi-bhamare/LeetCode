@@ -14,6 +14,7 @@ consistency is key
 | [2685-first-completely-painted-row-or-column](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -22,6 +23,7 @@ consistency is key
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
@@ -105,6 +107,7 @@ consistency is key
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Graph
 |  |
@@ -127,6 +130,7 @@ consistency is key
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +174,7 @@ consistency is key
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Monotonic Stack
 |  |
 | ------- |
