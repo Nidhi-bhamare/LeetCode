@@ -148,6 +148,7 @@ consistency is key
 ## Math
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
@@ -188,4 +189,8 @@ consistency is key
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
