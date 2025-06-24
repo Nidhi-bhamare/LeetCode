@@ -51,6 +51,7 @@ consistency is key
 | [1876-map-of-highest-peak](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -137,6 +138,7 @@ consistency is key
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0015-3sum) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Linked List
 |  |
 | ------- |
