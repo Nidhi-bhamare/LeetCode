@@ -50,6 +50,7 @@ consistency is key
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1876-map-of-highest-peak](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2145-grid-game) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2249-count-the-hidden-sequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -195,4 +196,8 @@ consistency is key
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
