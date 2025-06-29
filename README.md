@@ -49,6 +49,7 @@ consistency is key
 | [0407-trapping-rain-water-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1876-map-of-highest-peak](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2145-grid-game) |
@@ -133,6 +134,7 @@ consistency is key
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0015-3sum) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -142,6 +144,7 @@ consistency is key
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0015-3sum) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Linked List
 |  |
@@ -206,6 +209,7 @@ consistency is key
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Memoization
 |  |
