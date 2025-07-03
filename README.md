@@ -35,6 +35,7 @@ consistency is key
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,11 +161,13 @@ consistency is key
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
 |  |
@@ -209,6 +212,7 @@ consistency is key
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
