@@ -66,6 +66,7 @@ consistency is key
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -146,6 +147,7 @@ consistency is key
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
@@ -155,6 +157,7 @@ consistency is key
 | [0015-3sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0015-3sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
 | ------- |
@@ -202,6 +205,7 @@ consistency is key
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Monotonic Stack
 |  |
