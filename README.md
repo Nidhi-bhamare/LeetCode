@@ -29,6 +29,7 @@ consistency is key
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3396-valid-word) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
