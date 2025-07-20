@@ -12,6 +12,7 @@ consistency is key
 | [0594-longest-harmonious-subsequence](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -23,6 +24,7 @@ consistency is key
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -60,6 +62,7 @@ consistency is key
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1876-map-of-highest-peak](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2145-grid-game](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2249-count-the-hidden-sequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -246,4 +249,12 @@ consistency is key
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Trie
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
