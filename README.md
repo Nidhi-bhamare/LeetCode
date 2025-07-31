@@ -37,6 +37,7 @@ consistency is key
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -58,6 +59,7 @@ consistency is key
 | [0057-insert-interval](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0057-insert-interval) |
 | [0407-trapping-rain-water-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -200,6 +202,7 @@ consistency is key
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
