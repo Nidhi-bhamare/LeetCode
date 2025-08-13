@@ -183,10 +183,12 @@ consistency is key
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0326-power-of-three) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
