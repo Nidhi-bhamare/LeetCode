@@ -89,6 +89,7 @@ consistency is key
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3429-special-array-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3429-special-array-i) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Breadth-First Search
@@ -116,6 +117,7 @@ consistency is key
 | [2145-grid-game](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -251,6 +253,7 @@ consistency is key
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Binary Search
 |  |
 | ------- |
