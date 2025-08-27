@@ -91,6 +91,7 @@ consistency is key
 | [3429-special-array-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3429-special-array-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Breadth-First Search
 |  |
@@ -118,6 +119,7 @@ consistency is key
 | [2685-first-completely-painted-row-or-column](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -221,6 +223,7 @@ consistency is key
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
 |  |
 | ------- |
@@ -265,6 +268,7 @@ consistency is key
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
 |  |
 | ------- |
