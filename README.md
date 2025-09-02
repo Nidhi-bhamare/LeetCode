@@ -89,6 +89,7 @@ consistency is key
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3429-special-array-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3429-special-array-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -173,6 +174,7 @@ consistency is key
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
 |  |
@@ -198,6 +200,7 @@ consistency is key
 | [0326-power-of-three](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0326-power-of-three) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
@@ -259,6 +262,7 @@ consistency is key
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Binary Search
 |  |
@@ -288,4 +292,8 @@ consistency is key
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
