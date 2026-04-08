@@ -95,6 +95,7 @@ consistency is key
 | [3429-special-array-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3429-special-array-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Breadth-First Search
@@ -262,6 +263,7 @@ consistency is key
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -303,4 +305,8 @@ consistency is key
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
