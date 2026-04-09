@@ -39,6 +39,7 @@ consistency is key
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0029-divide-two-integers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -202,6 +203,7 @@ consistency is key
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0029-divide-two-integers) |
 | [0326-power-of-three](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0326-power-of-three) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
