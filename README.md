@@ -19,6 +19,7 @@ consistency is key
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -98,6 +99,7 @@ consistency is key
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Breadth-First Search
 |  |
