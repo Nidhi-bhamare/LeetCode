@@ -25,6 +25,7 @@ consistency is key
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0125-valid-palindrome) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -189,6 +190,7 @@ consistency is key
 | [0005-longest-palindromic-substring](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0125-valid-palindrome) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
