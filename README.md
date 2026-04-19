@@ -79,6 +79,7 @@ consistency is key
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1876-map-of-highest-peak](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -204,6 +205,7 @@ consistency is key
 | [0344-reverse-string](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
@@ -295,6 +297,7 @@ consistency is key
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nidhi-bhamare/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3488-closest-equal-element-queries](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3488-closest-equal-element-queries) |
