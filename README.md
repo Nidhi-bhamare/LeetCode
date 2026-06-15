@@ -29,6 +29,7 @@ consistency is key
 | [0005-longest-palindromic-substring](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0412-fizz-buzz) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -228,6 +229,7 @@ consistency is key
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0029-divide-two-integers) |
 | [0326-power-of-three](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0412-fizz-buzz) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -289,6 +291,7 @@ consistency is key
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Nidhi-bhamare/LeetCode/tree/master/0412-fizz-buzz) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nidhi-bhamare/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nidhi-bhamare/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
